@@ -6,8 +6,8 @@
 <!-- readme: contributors -start -->
 ## 贡献者
 
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+<a href="https://github.com/xufuyu/SuperHub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xufuyu/SuperHub" />
 </a>
 
 <!-- readme: contributors -end -->
