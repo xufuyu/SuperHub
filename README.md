@@ -4,20 +4,4 @@
 正在写
 # 贡献者
 <!-- readme: contributors -start -->
-
-
-<a href="https://github.com/xufuyu/SuperHub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=xufuyu/SuperHub" />
-</a>
-
-## Contributors
-
-As always, thanks to our amazing contributors!
-
-<a href="https://github.com/xufuyu/SuperHub/graphs/contributors">
-  <img src="https://github.com/xufuyu/SuperHub/CONTRIBUTORS.svg" />
-</a>
-
-Made with [contributors](https://github.com/jaywcjlove/github-action-contributors).
-
 <!-- readme: contributors -end -->
