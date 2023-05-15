@@ -4,7 +4,7 @@
 正在写
 # 贡献者
 <!-- readme: contributors -start -->
-## 贡献者
+
 
 <a href="https://github.com/xufuyu/SuperHub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=xufuyu/SuperHub" />
